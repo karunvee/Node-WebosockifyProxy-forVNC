@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@maximegris/node-websockify": "^1.0.7",
+    "@sukkis/node-multi-websockify": "^1.0.4",
+    "axios": "^1.7.7",
+    "http": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "https": "^1.0.0",
+    "ws": "^8.18.0"
+  }
+}
